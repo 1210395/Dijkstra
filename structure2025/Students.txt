@@ -1,0 +1,57 @@
+1055:Chris Richardson:91.0:93.0:Aeronautical Engineering
+1033:George Bryant:74.8:76.0:Agriculture
+1022:Victor Gonzalez:81.4:84.0:Anthropology
+1013:Michael Lewis:79.6:82.0:Architecture
+1015:Oscar Hall:69.0:73.0:Art
+1051:Yusuf Black:93.8:96.0:Astrophysics
+1045:Sean Kim:92.5:95.0:Biochemistry
+1006:Frank Wilson:74.5:80.0:Biology
+1009:Ian Thompson:76.3:78.0:Business Administration
+1035:Ivan Perry:72.5:74.0:Chemical Engineering
+1008:Hannah White:82.0:85.0:Chemistry
+1023:Wendy Green:94.6:96.0:Computer Engineering
+1001:Alice Johnson:85.5:92.0:Computer Science
+1043:Quincy Gray:90.9:93.0:Computer Science
+1028:Ben Parker:82.7:86.0:Cybersecurity
+1039:Max Reed:79.9:82.0:Data Science
+1048:Violet Ward:86.5:88.0:Economics
+1010:Jane Martinez:89.5:90.0:Economics
+1031:Eric Moore:76.1:78.0:Education
+1003:Carol Williams:91.3:95.0:Electrical Engineering
+1042:Piper Brooks:85.7:87.0:Engineering
+1044:Rosa Ortiz:77.2:79.0:Environmental Science
+1014:Nina Walker:84.7:86.0:Environmental Science
+1029:Chloe Mitchell:78.9:80.0:Film Studies
+1017:Quinn Young:77.8:79.0:Finance
+1047:Ulysses Baker:71.0:73.0:Fine Arts
+1041:Owen Sanchez:73.7:75.0:Forestry
+1021:Uma Miller:75.3:77.0:Geology
+1011:Kevin Robinson:72.8:76.0:History
+1025:Yara Thompson:88.9:90.0:International Relations
+1050:Ximena Patterson:89.4:91.0:International Studies
+1020:Tina Scott:91.7:94.0:Law
+1040:Nora Rivera:88.3:91.0:Marine Biology
+1027:Amy Carter:85.3:88.0:Marketing
+1005:Eve Davis:87.9:89.0:Mathematics
+1002:Bob Smith:78.0:88.0:Mechanical Engineering
+1030:Danielle Clark:90.2:92.0:Music
+12003:Aya:0.0:0.0:Not Accepted
+123001:fadi:0.0:0.0:Not Accepted
+1019:Sam Wright:88.2:91.0:Nursing
+1052:Zoey Wood:88.1:90.0:Philosophy
+1036:Julia Price:94.3:96.0:Philosophy
+1032:Fiona Adams:89.6:91.0:Physical Therapy
+1046:Tanya Lee:83.9:85.0:Physics
+1037:Kyle Foster:87.1:89.0:Physics
+1007:Grace Lee:93.2:97.0:Physics
+1049:Wyatt Butler:80.6:82.0:Political Science
+1016:Paula Allen:90.4:93.0:Political Science
+1004:David Brown:68.4:70.0:Psychology
+1054:Britney Howard:78.3:80.0:Psychology
+1038:Lauren Bell:82.2:84.0:Public Health
+1018:Rachel King:85.0:88.0:Sociology
+1012:Lily Clark:95.1:98.0:Software Engineering
+1026:Zachary Hill:79.0:83.0:Statistics
+1053:Adam Sanders:84.2:86.0:Statistics
+1024:Xander Edwards:73.0:75.0:Urban Planning
+1034:Heather Cox:83.4:85.0:Veterinary Science
